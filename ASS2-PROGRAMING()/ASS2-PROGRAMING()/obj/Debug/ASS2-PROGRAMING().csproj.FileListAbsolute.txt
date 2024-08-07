@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\bin\Debug\ASS2-PROGRAMING().exe.config
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\bin\Debug\ASS2-PROGRAMING().exe
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\bin\Debug\ASS2-PROGRAMING().pdb
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2-PROGRAMING().csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2_PROGRAMING__.Form1.resources
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2_PROGRAMING__.Properties.Resources.resources
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2-PROGRAMING().csproj.GenerateResource.cache
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2-PROGRAMING().csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2-PROGRAMING().exe
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2-PROGRAMING().pdb
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2_PROGRAMING__.Form2.resources
+\\Mac\Home\Desktop\C#\ASS2-PROGRAMING()\ASS2-PROGRAMING()\obj\Debug\ASS2_PROGRAMING__.Form3.resources
